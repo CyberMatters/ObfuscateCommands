@@ -27,6 +27,7 @@ The script requires :
   * The string specified in the column "command" must be surrounded by wildcards (*) `*evil.exe -encrypt*`
   * No wildcard is allowed in the middle of the command, for instance `*evil.exe * file.txt*`
   * The command itself must contain at least 5 characters.
+  * The output file will contain the results.
 
 :warning: The script will silently remove all commands that do not meet the requirements above.
 
