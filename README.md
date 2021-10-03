@@ -18,6 +18,8 @@ At this stage, the encoding type are:
 
 ## INPUTS
 
+![success](images/input.PNG)
+
 The script requires :
 
 * 2 CSV input files which paths will be specified in command line.
@@ -40,3 +42,4 @@ If the script completes successfully you should see this in your terminal :
 
 Finally, the CSV file that you have specified will also be filled with the obfuscated commands.
 
+![output](images/output.PNG)
