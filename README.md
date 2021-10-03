@@ -5,7 +5,7 @@ Program written by Dany Giang aka CyberMatters.
 ## Overview
 
 SOC and CERT analysts usually have a list of plaintext malicious commands that they want to detect or quickly find during forensic analysis.
-However, attackers often obfuscate their commands in order to evade classic detection rules based on plaintext commands.
+However, attackers often obfuscate their commands in order to evade standard detection rules based on plaintext commands.
 
 ObfuscateCommands is useful when you have a list of plain text commands (or any strings) and wish to obtain their equivalent in different encoding type.
 
